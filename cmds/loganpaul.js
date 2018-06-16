@@ -2,7 +2,7 @@ const ytdl = require('ytdl-core');
 const lyrics = require("./Lyrics.json");
 
 module.exports.run = async (bot, message) => {
-    message.delete();
+    message.delete()
     
     let arr = lyrics.loganpaul;
     // arr.push("Help me help you");
