@@ -41,7 +41,7 @@ module.exports.run = async (bot, message) => {
         }
     }, 20000);
 
-}
+};
 
 module.exports.help = {
     name: "loganpaul"
