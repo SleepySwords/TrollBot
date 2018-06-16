@@ -1,0 +1,25 @@
+{
+  "name": "cpdb",
+  "version": "0.0.1",
+  "description": "Cryguin  Discord Bot",
+  "main": "bot.js",
+  "author": "Ibrahim Hizamul ANsari",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord-eco": "0.0.10",
+    "discord.js": "github:hydrabolt/discord.js",
+    "ffmpeg": "0.0.4",
+    "fortnite": "^4.1.1",
+    "ms": "^2.1.1",
+    "mysql": "^2.15.0",
+    "node-opus": "^0.3.0",
+    "querystring": "^0.2.0",
+    "request": "^2.87.0",
+    "scripts": {
+      "start": "nodemon index.js"
+    },
+    "snekfetch": "^3.6.4",
+    "ytdl-core": "^0.20.4"
+  }
+}
